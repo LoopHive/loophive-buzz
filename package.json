@@ -1,3 +1,14 @@
-"dependencies": {
-  "chalk": "^5.3.0"
+{
+  "name": "loophive-buzz",
+  "version": "1.0.0",
+  "description": "LoopHive Bee animated ASCII art in terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "LoopHive",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
 }
